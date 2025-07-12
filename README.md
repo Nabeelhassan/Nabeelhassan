@@ -1,17 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Nabeel Hassan
 
-My name is Nabeel Hassan and I am an Senior Software Engineer with over a decade of experience in the industry. My expertise lies in Full Stack Development, with a strong focus on Front-End Development.
+I'm a **Senior Software Engineer** with over a decade of experience in the industry. My core expertise lies in **Full Stack Development**, with a strong emphasis on **Front-End Engineering**.
 
-In addition to my technical expertise, I have honed my leadership skills by directing teams of 2-4 engineers, predominantly in front-end development. My responsibilities extend beyond coding to include sprint planning and conducting code reviews. This leadership experience has equipped me with the ability to manage projects efficiently, mentor junior developers, and ensure the delivery of high-quality software products.
+---
 
-My Front-End Skills and expertise include:
-JavaScript, TypeScript, Angular, React, StencilJS, Svelte, PrimeNG, BootStrap, Tailwind, NextJS, ngRx, GraphQL, Gulp, Webpack, Rollup, ESBuild, Ionic(not an expert), Astro(not an expert)
+## 💻 Front-End Skills
 
-My backend-skills and expertise include:
-NodeJS, MongoDB, Postgres, Java(Undertow), Redshift, IndexedDB  
+- **Languages & Frameworks**: JavaScript, TypeScript, Angular, React, Vue, Svelte, StencilJS, Next.js, Astro *(basic)*  
+- **UI Libraries**: PrimeNG, Bootstrap, Quasar, Tailwind CSS, Ionic *(basic)*  
+- **State Management**: ngRx  
+- **Tooling**: Webpack, Rollup, Gulp, ESBuild  
+- **APIs**: GraphQL  
 
-My Cloud-skills and expertise include:
-AWS, Vercel, TeamCity
+---
+
+## 🛠️ Back-End Skills
+
+- **Languages & Frameworks**: Node.js, Java (Undertow), FastAPI  
+- **Databases**: MongoDB, PostgreSQL, Redshift, IndexedDB  
+
+---
+
+## 🧠 Technical & Leadership Experience
+
+- Led and mentored front-end teams of **2–4 engineers**.
+- Experienced in **sprint planning**, **code reviews**, and ensuring high-quality software delivery.
+- Skilled at **project management**, **mentoring junior developers**, and maintaining team velocity.
+
+---
+
+## ☁️ Cloud & DevOps
+
+- AWS  
+- Vercel  
+- TeamCity  
+
+---
+
+> 📫 Feel free to connect or reach out — I'm always open to discussing interesting projects or collaboration opportunities!
+
 
 <!--
 **Nabeelhassan/Nabeelhassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
